@@ -1,0 +1,6 @@
+# Ignore Claude Code and agents directories
+.agents/
+.claude/
+
+# Ignore skill lock file (local installation)
+skills-lock.json
